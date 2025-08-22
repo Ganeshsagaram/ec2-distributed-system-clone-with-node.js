@@ -49,7 +49,7 @@ Now, the request will be routed to Worker 2.
 
 3.Keep repeating to observe round-robin load distribution.
 
-4.Check the status of each port by sending request to "/health" route
+4.Check the status of each port by sending request to "/health" route. Like for Individual workers 3001/health 3002/health.
 
 5.Which Sends the JSON response whether the given port worker is busy or not
 
