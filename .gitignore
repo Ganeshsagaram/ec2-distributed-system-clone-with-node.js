@@ -1,0 +1,5 @@
+node_modules/
+.env
+.DS_Store
+worker/app_3001.js
+worker/app_3002.js
